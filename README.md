@@ -1,6 +1,6 @@
 
 ### Data Exploration and Cleaning
-1. Loading and Inspecting Data:**
+1. **Loading and Inspecting Data:**
    - Dataset: `Car_Insurance_Claim.csv`
    - Columns: 19
    - Shape: 10,000 rows × 19 columns
